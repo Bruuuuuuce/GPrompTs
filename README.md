@@ -1,7 +1,7 @@
 # GPrompTs
 Prompts for GPTs
 
-See [The Big Prompt Library](https://github.com/0xeb/TheBigPromptLibrary/) for more infornation
+See [The Big Prompt Library](https://github.com/0xeb/TheBigPromptLibrary/) for general information
 
 
 ## Disclaimer
