@@ -1,5 +1,5 @@
 # GPrompTs
-Prompts for GPTs
+Prompts for *Bruuuuuuce selected GPTs*
 
 See [The Big Prompt Library](https://github.com/0xeb/TheBigPromptLibrary/) for general information
 
